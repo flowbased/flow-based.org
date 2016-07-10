@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Flow-based programming
 ---
 
 flowbased.org is the home page of the community working on
