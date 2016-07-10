@@ -15,7 +15,7 @@ We do this by working on resources for understanding FBP programming,
 specifications which ensures compatibility between the various implementations,
 and tools built against these shared specificiations.
 
-Most of the tools is [on github](https://github.com/flowbased/repositories),
+Most of the tools is [on github](https://github.com/flowbased),
 and resources can be found in [the wiki](https://github.com/flowbased/flowbased.org/wiki).
 
 The primary discussion forum is the
