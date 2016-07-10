@@ -12,7 +12,11 @@
     {% for sitePage in site.pages %}
     {% if sitePage.title %}
 
+    {% if sitePage.externalurl %}
+    <a class="page-link" href="{{sitePage.externalurl}}">{{sitePage.title}}</a><span class="exclamationMark">/</span>
+    {% else %}
     <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a><span class="exclamationMark">/</span>
+    {% endif %}
     {% endif %}
     {% endfor %}
   </div>

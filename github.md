@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Github
-url: https://github.com/flowbased
+externalurl: https://github.com/flowbased
 ---
