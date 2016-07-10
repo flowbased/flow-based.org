@@ -1,3 +1,11 @@
-# [flowbased.org](https://flowbased.org)
+# [WIKI](https://github.com/flowbased/flowbased.org/wiki)
 
-Flow-based programming specification wiki
+Most content goes there, as it provides a decent GUI for editing.
+
+Anyone with a Github acocunts should be able to edit.
+
+# [flowbased.org](https://flowbased.org) homepage
+
+Just a simple static website with links to the relevant locations.
+
+To edit, change the [index.md](./index.md) file in this repository.
