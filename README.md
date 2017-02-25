@@ -2,7 +2,7 @@
 
 Most content goes there, as it provides a decent GUI for editing.
 
-Anyone with a Github acount should be able to edit.
+Anyone with a Github account should be able to edit.
 
 # [flowbased.org](https://flowbased.org) homepage
 
