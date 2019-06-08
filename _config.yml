@@ -1,3 +1,9 @@
 gems:
   - jekyll-coffeescript
   - jekyll-paginate
+
+title: Flowbased.org
+description: Flow-based programming specification wiki
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
